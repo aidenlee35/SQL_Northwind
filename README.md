@@ -7,3 +7,6 @@ The development of this portfolio was done by using local machine as a server.  
 
 Once the download is completed, the server should be configured locally.  The user name is your computer name.  The server name can be set to your preference.
 
+![alt text](https://github.com/aidenlee35/SQL_Northwind/blob/main/Images/LocalMachineConfiguration.png)
+
+## Result
